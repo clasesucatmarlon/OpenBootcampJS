@@ -1,0 +1,15 @@
+{
+  "name": "sesion_03",
+  "version": "1.0.0",
+  "description": "Estructuras de control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "fact1": "node factorial-for.js",
+    "fact2": "node factorial-while.js",
+    "fact3": "node factorial-break.js"
+  },
+  "author": "Marlon García",
+  "license": "ISC"
+}
