@@ -1,0 +1,12 @@
+{
+  "name": "sesion_04",
+  "version": "1.0.0",
+  "description": "Cadenas de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Marlon García",
+  "license": "ISC"
+}
