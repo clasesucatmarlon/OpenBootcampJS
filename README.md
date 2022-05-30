@@ -8,4 +8,4 @@
 
 ### Módulo 3: Estructuras de control.
 
-### Módulo 4: cadenasx de texto.
+### Módulo 4: cadenas de texto.
