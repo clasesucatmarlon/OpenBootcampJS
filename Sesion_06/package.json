@@ -1,0 +1,16 @@
+{
+  "name": "sesion_06",
+  "version": "1.0.0",
+  "description": "Trabajando con listas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "p1": "node practice1.js"
+  },
+  "keywords": [
+    "Listas"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
