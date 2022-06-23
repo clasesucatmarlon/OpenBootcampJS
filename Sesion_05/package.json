@@ -1,0 +1,16 @@
+{
+  "name": "sesion_05",
+  "version": "1.0.0",
+  "description": "Trabajando con números",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "numbers"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
