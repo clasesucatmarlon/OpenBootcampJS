@@ -9,3 +9,7 @@
 ### Módulo 3: Estructuras de control.
 
 ### Módulo 4: cadenas de texto.
+
+### Módulo 5: Números.
+
+### Módulo 6: Listas.

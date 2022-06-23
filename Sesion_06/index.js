@@ -13,19 +13,19 @@ console.log(arrayShoppingList);
 // Lista de las 3 películas favoritas (objetos con propiedades: titulo, director, fecha)
 listFilmsFavorites = [
     {
-        title: "",
-        director: "",
-        date: ""
+        title: "Alien, el octavo pasajero",
+        director: "Ridley Scott",
+        date: "1979-03-03"
     },
     {
-        title: "",
-        director: "",
-        date: ""
+        title: "Top Gun: Maverick",
+        director: "Joseph Kosinski",
+        date: "2022-05-15"
     },
     {
-        title: "",
-        director: "",
-        date: ""
+        title: "Tiempos Modernos",
+        director: "Charles Chaplìn",
+        date: "1936-06-15"
     },
 ]
 

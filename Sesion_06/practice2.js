@@ -23,3 +23,15 @@ var array2 = ['garcía', 21, true];
 // concat() ---> Obtiene un nuevo array con los elementos de las listas concatenadas
 var newArray = array1.concat(array2);
 console.log(newArray);
+
+// ... ---> 
+console.log(...newArray); // Separa los elementos
+var newArray2 = [...array1, ...newArray];
+console.log(newArray2);
+
+
+// METODOS PARA OBTENER DATOS A PARTIR DE UNA LISTA
+// -----------------------------------------------------------------------------
+// slice(startIndex, numberElements) ---> Obtiene un nuevo array con los elementos de las lista
+var newArraySlice = newArray.slice(2, 5);
+console.log(newArraySlice);
