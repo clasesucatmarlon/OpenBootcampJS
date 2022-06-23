@@ -1,7 +1,7 @@
 # Sesión 6: Listas
 
-1. Listas y métodos de mutacion de listas.
-2. Concatenación y obtención de fragmentos de listas.
+1. Listas y métodos de mutacion de listas (practice1.js).
+2. Concatenación y obtención de fragmentos de listas (practice2.js).
 3. Métodos de iteración en listas.
 4. Métodos avanzados, obtención de listas a partir de listas.
 5. Ordenación de listas y comparación entre dos listas.

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "p1": "node practice1.js"
+    "p1": "node practice1.js",
+    "p2": "node practice2.js"
   },
   "keywords": [
     "Listas"

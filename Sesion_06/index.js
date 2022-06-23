@@ -7,8 +7,27 @@ arrayShoppingList.push('Aceite de Girasol');
 console.log(arrayShoppingList);
 
 // Vuelve a modificar la lista de la compra eliminando "Aceite de Girasol"
+arrayShoppingList.splice(-1);
+console.log(arrayShoppingList);
 
 // Lista de las 3 películas favoritas (objetos con propiedades: titulo, director, fecha)
+listFilmsFavorites = [
+    {
+        title: "",
+        director: "",
+        date: ""
+    },
+    {
+        title: "",
+        director: "",
+        date: ""
+    },
+    {
+        title: "",
+        director: "",
+        date: ""
+    },
+]
 
 // Una nueva lista que contenga las películas posteriores al 1 de enero de 2010 (utilizando filter)
 
