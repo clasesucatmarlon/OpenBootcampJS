@@ -53,3 +53,4 @@ const { capacidad } = carros.find(item => {
 })
 console.log(capacidad);
 
+
