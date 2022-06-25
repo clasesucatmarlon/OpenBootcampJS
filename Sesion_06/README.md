@@ -7,7 +7,7 @@
 5. Ordenación de listas y comparación entre dos listas.
 6. Identificar si existe un valor en un array y objetos iterables.
 
-## tarea:
+## Tarea:
 
 **Crea un archivo JS que contenga las siguientes líneas:**
 
