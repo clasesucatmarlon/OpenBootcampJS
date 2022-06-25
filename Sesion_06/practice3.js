@@ -52,3 +52,4 @@ const { capacidad } = carros.find(item => {
     return [item.color === 'morado'];
 })
 console.log(capacidad);
+
