@@ -8,7 +8,8 @@
     "start": "node index.js",
     "p1": "node practice1.js",
     "p2": "node practice2.js",
-    "p3": "node practice3.js"
+    "p3": "node practice3.js",
+    "p5": "node practice5.js"
   },
   "keywords": [
     "Listas"
