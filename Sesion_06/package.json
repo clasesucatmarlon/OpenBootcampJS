@@ -9,7 +9,8 @@
     "p1": "node practice1.js",
     "p2": "node practice2.js",
     "p3": "node practice3.js",
-    "p5": "node practice5.js"
+    "p5": "node practice5.js",
+    "p6": "node practice6.js"
   },
   "keywords": [
     "Listas"

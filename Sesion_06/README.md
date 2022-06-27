@@ -4,8 +4,8 @@
 2. Concatenación y obtención de fragmentos de listas (practice2.js).
 3. Métodos de iteración en listas (practice3.js).
 4. Métodos avanzados, obtención de listas a partir de listas.
-5. Ordenación de listas y comparación entre dos listas.
-6. Identificar si existe un valor en un array y objetos iterables.
+5. Ordenación de listas y comparación entre dos listasm (practice5.js).
+6. Identificar si existe un valor en un array y objetos iterables (practice6.js).
 
 ## Tarea:
 
