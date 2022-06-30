@@ -3,7 +3,7 @@
 1. Sets (practice1.js).
 2. Objetos (practice2.js).
 3. Fechas (practice3.js).
-4. Uso de cònsola en Javascript (practice5.js).
+4. Uso de cónsola en Javascript.
 
 ## Tarea 1:
 

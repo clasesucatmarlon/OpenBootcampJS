@@ -1,0 +1,22 @@
+{
+  "name": "sesion_07",
+  "version": "1.0.0",
+  "description": "Trabajando con Sets y Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "p1": "node practice1.js",
+    "set": "node conjuntos.js",
+    "p2": "node practice2.js",
+    "obj": "node objetos.js",
+    "p3": "node practice3.js",
+    "fec": "node fechas.js"
+  },
+  "keywords": [
+    "sets",
+    "objects"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
