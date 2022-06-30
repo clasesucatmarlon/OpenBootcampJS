@@ -13,3 +13,5 @@
 ### Módulo 5: Números.
 
 ### Módulo 6: Listas.
+
+### Módulo 7: Set y Objetos.
