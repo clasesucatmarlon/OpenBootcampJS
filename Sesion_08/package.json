@@ -1,0 +1,20 @@
+{
+  "name": "sesion_08",
+  "version": "1.0.0",
+  "description": "Introducción a las funciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "p1": "node practice1.js",
+    "p2": "node practice2.js",
+    "p3": "node practice3.js",
+    "p4": "node practice4.js",
+    "p5": "node practice5.js"
+  },
+  "keywords": [
+    "funtions"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
