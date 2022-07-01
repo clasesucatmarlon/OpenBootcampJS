@@ -8,7 +8,7 @@
 
 ### Módulo 3: Estructuras de control.
 
-### Módulo 4: cadenas de texto.
+### Módulo 4: Cadenas de texto.
 
 ### Módulo 5: Números.
 
@@ -17,3 +17,5 @@
 ### Módulo 7: Set y Objetos.
 
 ### Módulo 8: Introducción a las funciones.
+
+### Módulo 9: Gestión de errores - Librería winston.
