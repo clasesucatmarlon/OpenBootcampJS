@@ -1,0 +1,20 @@
+{
+  "name": "sesion_09",
+  "version": "1.0.0",
+  "description": "Gestión de errores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "p1": "node practice1.js",
+    "p2": "node practice2.js"
+  },
+  "keywords": [
+    "errores"
+  ],
+  "author": "Marlon García",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
+}
