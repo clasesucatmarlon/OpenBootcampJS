@@ -1,0 +1,19 @@
+{
+  "name": "sesion_11",
+  "version": "1.0.0",
+  "description": "Programación Orientada a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "p1": "node practice1.js",
+    "p2": "node practice2.js",
+    "p3": "node practice3.js",
+    "p4": "node practice4.js",
+    "p5": "node practice5.js"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
