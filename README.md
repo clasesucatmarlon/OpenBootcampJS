@@ -21,3 +21,5 @@
 ### Módulo 9: Gestión de errores - Librería winston.
 
 ### Módulo 10: Módulos.
+
+### Módulo 11: Programación Orientad a Objetos (POO).
