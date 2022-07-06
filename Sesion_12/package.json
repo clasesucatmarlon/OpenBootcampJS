@@ -1,0 +1,15 @@
+{
+  "name": "sesion_12",
+  "version": "1.0.0",
+  "description": "Depuración de código",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "p1": "node practice1.js"
+  },
+  "keywords": [
+    "depuracion"
+  ],
+  "author": "Marlon García",
+  "license": "ISC"
+}
