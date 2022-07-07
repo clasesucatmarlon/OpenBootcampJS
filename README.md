@@ -25,3 +25,5 @@
 ### Módulo 11: Programación Orientad a Objetos (POO).
 
 ### Módulo 12: Depuración de código.
+
+### Módulo 13: Configuración y uso de ESLint.
