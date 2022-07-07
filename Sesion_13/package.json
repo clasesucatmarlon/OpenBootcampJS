@@ -1,0 +1,20 @@
+{
+    "name": "sesion_13",
+    "version": "1.0.0",
+    "description": "Configuración y uso de ESLint",
+    "main": "practice1.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "eslint"
+    ],
+    "author": "Marlon García",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.19.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "prettier": "^2.7.1"
+    }
+}

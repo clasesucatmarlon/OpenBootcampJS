@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "eqeqeq": "warn",
+        "strict": "off",
+        "quotes": ["error", "single"],
+        "semi": ["error", "always"],
+        "indent": ["error", 4]
+    }
+}
+

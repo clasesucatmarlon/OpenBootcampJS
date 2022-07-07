@@ -1,0 +1,16 @@
+{
+    "name": "practice3",
+    "version": "1.0.0",
+    "description": "Práctica para generar eslint",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "lint": "eslint .",
+        "fix": "eslint --fix ."
+    },
+    "author": "Marlon García",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.19.0"
+    }
+}
