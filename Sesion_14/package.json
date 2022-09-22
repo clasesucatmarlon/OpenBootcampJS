@@ -1,0 +1,15 @@
+{
+    "name": "sesion_14",
+    "version": "1.0.0",
+    "description": "Gestión de eventos - DOM",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "DOM",
+        "eventos"
+    ],
+    "author": "Marlon García",
+    "license": "ISC"
+}
